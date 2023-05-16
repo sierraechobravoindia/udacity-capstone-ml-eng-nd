@@ -48,6 +48,14 @@ Azure provides code examples for inference/scoring in the consume tab. Based on 
 
 ![screenshot of a query to the deployed model](./images/inference.png)
 
+## Future Improvements
+
+As mentioned before no emphasis was put on the machine learning part of the task. 
+
+For the hyperparameter search, a more exhaustive search like a wider parameter space oder grid search could yield improvements as could the use of a more expressive model instead of the logistic regression used.
+
+The AutoML run could be more exhaustive in terms of the time constraint imposed, also deep learning methods could be incorporated. The use of a metric like AUROC could also improve results as it is in general more suited to imbalanced datasets.
+
 ## Screen Recording
 The required screencast for this project can be found [here](https://youtu.be/gmsfoQ8Fjjk).
 
