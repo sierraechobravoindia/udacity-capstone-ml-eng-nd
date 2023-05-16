@@ -49,10 +49,7 @@ Azure provides code examples for inference/scoring in the consume tab. Based on 
 ![screenshot of a query to the deployed model](./images/inference.png)
 
 ## Screen Recording
-The required screencast for this project can be found [here]
-- A working model
-- Demo of the deployed  model
-- Demo of a sample request sent to the endpoint and its response
+The required screencast for this project can be found [here](https://youtu.be/gmsfoQ8Fjjk).
 
 ## References
 
